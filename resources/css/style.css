@@ -1,0 +1,33 @@
+body {
+    padding-top: 56px;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.alert {
+    margin-top: 20px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+/* Gaya untuk tombol ekspor laporan */
+.btn-export {
+    margin-top: 10px;
+}
+
+/* Gaya untuk form filter laporan */
+#filter-form {
+    transition: all 0.3s ease;
+}
+
+#filter-toggle {
+    cursor: pointer;
+}
